@@ -1,6 +1,9 @@
 # trulia-popup-modal
 Inserted modal into existing code.
 
+  <img width="100%" height="auto" src="https://www.dropbox.com/s/fe0x6cymcd90e4w/modal-for-trulia.jpeg?raw=1">
+</span><br><br>
+
 Credits for existing code:
 /*! HTML5 Boilerplate v6.1.0 | MIT License | https://html5boilerplate.com/ */
 
